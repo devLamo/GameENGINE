@@ -1,0 +1,7 @@
+<?php
+
+return array(
+	'authEmail' 	=> 'E-Mail Адрес',
+	'authLogin' 	=> 'Логин',
+
+);
